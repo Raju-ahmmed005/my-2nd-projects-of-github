@@ -1,1 +1,3 @@
-this is a simple Redme file.
+
+
+man is morten 
